@@ -1,4 +1,4 @@
-### 👋 Hi, I’m __Kushagra Kumar__ (@kushbhati)
+### 👋 Hi, I’m __Kushagra Bhati__ (@kushbhati)
 - 👀 I’m interested in *a lot of things*
 - 🌱 I’m currently learning *TypeScript? yeah Typescript!*
 - 💞️ I’m looking to collaborate on, *anything just dm me*
