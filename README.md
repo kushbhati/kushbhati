@@ -1,4 +1,4 @@
-# Hi there, I'm Kushagra 👋
+# Hi there, I'm Kushāgra 👋
 
 ### Software Development Engineer
 
